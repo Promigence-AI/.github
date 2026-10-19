@@ -78,5 +78,5 @@ are never written into a snapshot. More at [promigence.ai/security](https://www.
 
 ## Talk to us
 
-support@promigence.ai · Send us your repository and the command you run, and we will run it a thousand times and send
+support@promigence.ai · [Community](https://github.com/Promigence-AI/community/discussions) · Send us your repository and the command you run, and we will run it a thousand times and send
 back a [validity report](https://www.promigence.ai/validity-report) with an exact price. Free, once.
